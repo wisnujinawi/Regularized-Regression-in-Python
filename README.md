@@ -18,7 +18,7 @@ Boston city, features:
 
 
 
-Instructions:
+#Instructions:
 
 1. Split data: train - validate - test 
 2. Draw correlation plot on training data and perform feature selection on highly correlated features
